@@ -507,7 +507,7 @@
       "gencad": "3d/ESP32-Drone-quad.cad",
       "idf": "",
       "netlist": "",
-      "plot": "garber/",
+      "plot": "../../../Downloads/New folder (2)/OUTPUT/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "ESP32 drone.step",
