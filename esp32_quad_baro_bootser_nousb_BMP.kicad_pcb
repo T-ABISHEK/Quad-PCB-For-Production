@@ -109,7 +109,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -4523,7 +4522,7 @@
 	(footprint "RF_Module:ESP32-WROOM-32"
 		(layer "F.Cu")
 		(uuid "470ddb8a-6a3f-4afd-9a23-f7b75e37a65d")
-		(at 130.92811 99.10145 180)
+		(at 86.7501 100.7501 180)
 		(descr "Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf")
 		(tags "Single 2.4 GHz Wi-Fi and Bluetooth combo  chip")
 		(property "Reference" "U8"
@@ -5324,7 +5323,7 @@
 			)
 			(polygon
 				(pts
-					(xy 140.12291 108.90585) (xy 121.73331 108.90585) (xy 121.73331 115.02725) (xy 140.12291 115.02725)
+					(xy 95.9449 110.5545) (xy 77.5553 110.5545) (xy 77.5553 116.6759) (xy 95.9449 116.6759)
 				)
 			)
 		)
